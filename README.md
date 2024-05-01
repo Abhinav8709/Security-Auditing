@@ -1,6 +1,6 @@
 # Security-Auditing
 <h2>Overview:</h2>
-This project is part of the second course in the GGES Cybersecurity Professional Certification. It focuses on conducting an internal security audit for Botium Toys, a fictional company specializing in toy development and sales. The audit aims to assess the current state of the company's IT infrastructure, identify potential risks, threats, and vulnerabilities, and ensure compliance with relevant regulations, particularly concerning online payments and business operations in the European Union (E.U.).
+This project is part of the second course in the Googles Cybersecurity Professional Certification course. It focuses on conducting an internal security audit for Botium Toys, a fictional company specializing in toy development and sales. The audit aims to assess the current state of the company's IT infrastructure, identify potential risks, threats, and vulnerabilities, and ensure compliance with relevant regulations, particularly concerning online payments and business operations in the European Union (E.U.).
 
 <h2>Scope and Goals:</h2>
 The scope of the audit encompasses the entire IT infrastructure of Botium Toys, including both physical and online assets. The primary goals include:<br> 
